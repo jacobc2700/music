@@ -1,0 +1,4 @@
+.video_card {
+  display: flex;
+  justify-content: flex-start;
+}
